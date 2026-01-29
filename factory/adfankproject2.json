@@ -1,0 +1,9 @@
+{
+	"name": "adfankproject2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b6b5660-f6b0-45c1-a8e2-a10e278b254e",
+		"tenantId": "e9890418-9f23-4e2e-b1a3-cbadb0829096"
+	}
+}
